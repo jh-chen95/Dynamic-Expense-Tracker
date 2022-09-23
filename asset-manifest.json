@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Expense-Tracker/static/css/main.cfc3c227.css",
+    "main.js": "/Dynamic-Expense-Tracker/static/js/main.024504ca.js",
+    "index.html": "/Dynamic-Expense-Tracker/index.html",
+    "main.cfc3c227.css.map": "/Dynamic-Expense-Tracker/static/css/main.cfc3c227.css.map",
+    "main.024504ca.js.map": "/Dynamic-Expense-Tracker/static/js/main.024504ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc3c227.css",
+    "static/js/main.024504ca.js"
+  ]
+}
